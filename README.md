@@ -16,13 +16,7 @@ I am an intuitive problem-solver and developer believing in active "doing" over 
 
 ### 🏆 Problem Solving & Competitive Programming
 
-My foundation is built on rigorous algorithmic problem solving, backed by top-tier competitive exam ranks (GATE CS AIR 1366, JEE Mains 99.32%ile). 
-
-| Platform | Username | Achievement / Max Rating | Profile Link |
-| :--- | :--- | :--- | :--- |
-| **LeetCode** | `chatterjee_sid` | 850+ Problems Solved | [View Profile](https://leetcode.com/u/chatterjee_sid/) |
-| **CodeChef** | `chatterjee_sid` | Max Rating: 1698 (3-Star) | [View Profile](https://www.codechef.com/users/chatterjee_sid) |
-| **Codeforces** | `chatterjee_sid` | Max Rating: 1400 (Specialist) | [View Profile](https://codeforces.com/profile/chatterjee_sid) |
+My foundation is built on rigorous algorithmic problem solving, backed by top-tier competitive exam ranks (GATE CS 2026 - Score 686, JEE Mains 2023 - 99.32%ile,). 
 
 <div align="center">
   <a href="https://codeforces.com/profile/chatterjee_sid">
