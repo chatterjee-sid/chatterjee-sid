@@ -24,9 +24,17 @@ My foundation is built on rigorous algorithmic problem solving, backed by top-ti
 | **CodeChef** | `chatterjee_sid` | Max Rating: 1698 (3-Star) | [View Profile](https://www.codechef.com/users/chatterjee_sid) |
 | **Codeforces** | `chatterjee_sid` | Max Rating: 1400 (Specialist) | [View Profile](https://codeforces.com/profile/chatterjee_sid) |
 
-*(Note: LeetCode stats dynamically update below)*
-<br>
-<img src="https://leetcard.jacoblin.cool/chatterjee_sid?theme=dark&font=Syne&ext=activity" alt="LeetCode Stats"/>
+<div align="center">
+  <a href="https://codeforces.com/profile/chatterjee_sid">
+    <img height="250" src="https://codeforces-readme-stats.vercel.app/api/card?username=chatterjee_sid&theme=tokyonight" alt="Codeforces Stats" />
+  </a>
+  <a href="https://leetcode.com/u/chatterjee_sid/">
+    <img height="250" src="https://leetcard.jacoblin.cool/chatterjee_sid?theme=dark&font=Syne&ext=activity" alt="LeetCode Stats" />
+  </a>
+  <a href="https://www.codechef.com/users/chatterjee_sid">
+    <img height="250" src="https://codechef-readme-stats.onrender.com/chatterjee_sid?v=1" alt="CodeChef Stats" />
+  </a>
+</div>
 
 ---
 
