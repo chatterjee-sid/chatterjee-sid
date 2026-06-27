@@ -16,7 +16,7 @@ I am an intuitive problem-solver and developer believing in active "doing" over 
 
 ### 🏆 Problem Solving & Competitive Programming
 
-My foundation is built on rigorous algorithmic problem solving, backed by top-tier competitive exam ranks (GATE CS 2026 - Score 686, JEE Mains 2023 - 99.32%ile,). 
+My foundation is built on rigorous algorithmic problem solving, backed by top-tier competitive exam ranks (GATE CS 2026 - Score 686, JEE Mains 2023 - 99.32%ile). 
 
 <div align="center">
   <a href="https://codeforces.com/profile/chatterjee_sid">
